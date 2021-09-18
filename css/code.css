@@ -1,0 +1,265 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+header{
+    height: 531px;
+    background-image:url(../img/image-hero.jpg);
+    background-repeat: no-repeat;
+}
+.hamburger{
+    display: none;
+}
+ul{
+    color:white;
+}
+.div-one{
+    padding: 3%;;
+    display: flex;
+    justify-content: space-between;
+    color:white;
+    font-family: 'Josefin Sans';
+}  
+.career{
+    word-spacing: 20px;
+    color: white;
+}
+.div-two{
+    margin: 2% 60% 7% 3%;
+    padding:2%;
+    font-size: 50px;
+    font-family: 'Josefin Sans';
+    border: 2px solid white;
+    color: white;
+}
+.imgx {
+    width: 100%;
+}
+.imgy{
+  
+    width: 626px;
+}
+h1.tit-le {
+    padding: 0% 5%;
+    margin-left: 6%;
+}
+.found{
+    background: white;
+    font-family: 'Josefin Sans';
+    width: 500px;
+    position: absolute;
+    left: 43%;
+    top: 55%;
+}
+.img-wrap {
+    max-width: 100%;
+}
+.sub_img {
+    margin: 2% 7%;
+    position: relative;
+    width: 93%;
+}
+.head{
+  margin-top: 3%;
+}
+.para{
+    font-family: 'alata';
+    font-size:13px;
+    color:hsl(0, 0%, 35%) ;
+    padding: 0% 12%;
+    margin: 0% 1%;
+   
+}
+.neck{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 74px;
+    font-family: 'Josefin Sans'
+}
+.button{
+    height: 30px;
+    padding: 0px 29px;
+    font-family: 'Josefin Sans';
+    border: 2px solid hsl(0, 0%, 41%) ;
+    background-color: white;
+}
+.deep{
+   display: flex;
+   justify-content: space-around;
+   flex-wrap: wrap; 
+   margin: 0% 3%;
+}
+.earth{
+background-image: url(../img/image-deep-earth.jpg);
+background-repeat: no-repeat;
+height: 1px;
+width: 217px;
+color: white;
+padding: 204px 2px;
+font-size: 40px;
+font-family: 'Josefin Sans';
+margin: 2%;
+
+}
+.night{
+ background-image: url(../img/image-night-arcade.jpg);
+ height: 1px;
+ background-repeat: no-repeat;
+ width: 217px;
+ color: white;
+ padding: 204px 2px;
+ font-size: 40px;
+ font-family: 'Josefin Sans';
+ margin: 2%;
+
+}
+.soccer{
+background-image: url(../img/image-soccer-team.jpg);
+height: 1px;
+background-repeat: no-repeat;
+ width: 217px;
+ color: white;
+ padding: 204px 2px;
+ font-size: 40px;
+ font-family: 'Josefin Sans';
+ margin: 2%;
+}
+.the{
+ background-image: url(../img/image-grid.jpg);
+ height: 1px;
+ background-repeat: no-repeat;
+ width: 217px;
+ color: white;
+ padding: 204px 2px;
+ font-size: 45px;
+ font-family: 'Josefin Sans';
+ margin: 2%;
+}
+.from{
+ background-image: url(../img/image-from-above.jpg);
+ height: 1px;
+ background-repeat: no-repeat;
+ width: 217px;
+ color: white;
+ padding: 204px 2px;
+ font-size: 40px;
+ font-family: 'Josefin Sans';
+ margin: 2%;
+}
+.pocket{
+ background-image: url(../img/image-pocket-borealis.jpg);
+ height: 1px;
+ background-repeat: no-repeat;
+ width: 217px;
+ color: white;
+ padding: 204px 2px;
+ font-size: 40px;
+ font-family: 'Josefin Sans';
+ margin: 2%;
+}
+.curiosity{
+ background-image: url(../img/image-curiosity.jpg);
+ height: 1px;
+ background-repeat: no-repeat;
+ width: 219px;
+ color: white;
+ padding: 204px 2px 202px;
+ font-size: 41px;
+ font-family: 'Josefin Sans';
+ margin: 2%;
+}
+.make{
+ background-image: url(../img/image-fisheye.jpg);
+ height: 1px;
+ background-repeat: no-repeat;
+ width: 217px;
+ color: white;
+ padding: 204px 2px;
+ font-size: 40px;
+ font-family: 'Josefin Sans';
+ margin: 2%;
+}
+.last{
+ display: flex;
+ margin:2%;
+ justify-content: space-between;
+}
+.final{
+    display: flex;
+    color: white;
+    margin:2%;
+    justify-content: space-between;
+}
+footer{
+    background-color:  rgba(0, 0, 0, 0.849);
+    padding: 2%;
+    font-family: 'Alata';
+}
+.carer{
+    word-spacing: 20px;
+    display: flex;
+     
+}
+.face{
+    margin: 2px;
+}
+.tweet{
+    margin: 2px;
+}
+.ins{
+    margin: 2px;
+}
+.pin{
+    margin: 2px;
+}
+.d{
+    padding: 58px 5px 9px 5px;
+}
+.n{
+    padding: 58px 5px 9px 5px;
+}
+.s{
+    padding: 58px 5px 9px 5px;
+}
+.t{
+    padding: 58px 5px 9px 5px;
+}
+.f{
+    padding: 58px 5px 9px 5px;
+}
+.p{
+    padding: 58px 5px 9px 5px;
+}
+.c{
+    padding: 58px 5px 9px 5px;
+}
+.m{
+    padding: 58px 5px 9px 5px;
+}
+.iicon{
+    display: none;
+}
+.buttton{
+    display: none;
+}
+ul{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 2%;
+    list-style-type: none;
+}
+.about{
+    margin: 0px 4%
+}
+.product{
+    margin: 0px 4%
+}
+.support{
+    margin: 0px 4%
+}
+.career{
+    margin: 0px 4%
+}
+.events{
+    margin: 0px 4%
+}

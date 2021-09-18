@@ -1,0 +1,214 @@
+
+@media screen and (max-width:900px){
+   body{
+     width:100%;
+   }
+    .div-two {
+        font-size: 40px;
+        font-family: 'Josefin Sans';
+        color: white;
+        padding: 1% 4%;
+        margin: 25% 12% 2% 2%;
+    }
+    .hamburger{
+      display: block;
+    }
+    .career{
+        display: none;
+    }
+    .imgy{
+        width: 100%;
+    }
+   .found{
+    position: unset;
+    margin: 2px;
+    left: 0%;
+    text-align: center;
+    width: fit-content;
+    }
+    .sub_img {
+        margin: 16% 1% 0 6%;
+        position: relative;
+        width: 89%;
+    }
+    h1.tit-le {
+      padding: 0% 2%;
+      margin-left: 0%;
+  }
+  .para {
+    font-family: 'alata';
+    font-size: 13px;
+    color: hsl(0, 0%, 35%);
+    padding: 0% 12%;
+    margin: 0% 1%;
+  }
+    .neck{
+      display:block;
+      text-align: center;
+    }
+    .button{
+       display: none;
+    }
+    .earth {
+      padding: 5% 1% 10px 0;
+      height: 1%;
+      width: 55%;
+      color: white;
+      font-size: 30px;
+      font-family: 'Josefin Sans';
+      margin: 2%;
+    }
+   .d {
+     padding: 0px 0 0 0;
+     margin: 10% 14% 0 0;
+    }
+    .night{
+      
+      padding: 3% 1% 4px 0;
+      height: 1%;
+      width: 55%;
+      color: white;
+      font-size: 30px;
+      font-family: 'Josefin Sans';
+      margin: 2%;
+     
+     }
+     .buttton{ 
+      height: 30px;
+    padding: 0px 29px;
+    font-family: 'Josefin Sans';
+    border: 2px solid hsl(0, 0%, 41%);
+    background-color: white;
+    display: block;
+    text-align: center;
+    margin: 3%;
+    position: relative;
+    left: 35%;
+     }
+     ul {
+      margin: 5% 8% 5% 0%;
+      list-style-type: none;
+      text-align: center;
+      font-size: 23px;
+      display: block;
+      }
+     .soccer{
+     
+      padding: 3% 1% 4px 0;
+      height: 1%;
+      width: 55%;
+      color: white;
+      font-size: 30px;
+      font-family: 'Josefin Sans';
+      margin: 2%;
+  
+     }
+     .carer {
+      word-spacing: 20px;
+      display: block;
+      
+  }
+     .the{
+      padding: 3% 1% 4px 0;
+      height: 1%;
+      width: 55%;
+      color: white;
+      font-size: 30px;
+      font-family: 'Josefin Sans';
+      margin: 2%;
+     }
+     .from{
+      padding: 3% 1% 4px 0;
+      height: 1%;
+      width: 55%;
+      color: white;
+      font-size: 30px;
+      font-family: 'Josefin Sans';
+      margin: 2%;
+     }
+     .pocket{
+      padding: 3% 1% 4px 0;
+      height: 1%;
+      width: 55%;
+      color: white;
+      font-size: 30px;
+      font-family: 'Josefin Sans';
+      margin: 2%;
+     }
+     .curiosity{
+      padding: 3% 1% 4px 0;
+      height: 1%;
+      width: 55%;
+      color: white;
+      font-size: 30px;
+      font-family: 'Josefin Sans';
+      margin: 2%;
+     }
+     .make{
+      padding: 3% 1% 4px 0;
+      height: 1%;
+      width: 55%;
+      color: white;
+      font-size: 30px;
+      font-family: 'Josefin Sans';
+      margin: 2%;
+     }
+     .n{
+      padding: 0px 0 0 0;
+    margin: 10% 14% 0 0;
+  }
+  .s {
+    padding: 0px 0 0 0;
+    margin: 10% 14% 0 0;
+ }
+  .t{
+    padding: 0px 0 0 0;
+    margin: 10% 14% 0 0;
+   }
+   .f{
+    padding: 0px 0 0 0;
+    margin: 10% 14% 0 0;
+    }
+   .p{
+    padding: 0px 0 0 0;
+    margin: 10% 14% 0 0;
+   }
+  .c{
+    padding: 0px 0 0 0;
+    margin: 10% 14% 0 0;
+  }
+  .m{
+    padding: 0px 0 0 0;
+    margin: 10% 14% 0 0;
+    }
+    .final {
+      display: block;
+      color: white;
+      margin: 2%;
+      justify-content: space-between;
+  }
+  .last {
+    display: block;
+    margin: 2%;
+    justify-content: space-between;
+  }
+  .icon{
+    display: none;
+  }
+  .iicon{
+    display: block;
+  }
+  footer {
+    background-color: rgba(0, 0, 0, 0.849);
+    padding: 2%;
+    font-family: 'Alata';
+    text-align: center;
+}
+
+
+   
+   
+   
+   
+   
+}
