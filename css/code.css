@@ -248,18 +248,6 @@ ul{
     margin: 2%;
     list-style-type: none;
 }
-.about{
-    margin: 0px 4%
-}
-.product{
-    margin: 0px 4%
-}
-.support{
-    margin: 0px 4%
-}
-.career{
-    margin: 0px 4%
-}
-.events{
+.about, .product, .support, .event, .career{
     margin: 0px 4%
 }
